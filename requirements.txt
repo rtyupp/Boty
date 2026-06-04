@@ -1,5 +1,4 @@
 python-telegram-bot
-yfinance
-mplfinance
+requests
 pandas
-aiohttp
+mplfinance
